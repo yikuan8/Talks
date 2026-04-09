@@ -82,7 +82,3 @@
 ---
 
 ## Slide 10 — Acknowledgments & References
-
-- Co-authors: Yikuan Li, Chengsheng Mao, Kaixuan Huang, Hanyin Wang, Zheng Yu, Mengdi Wang, Yuan Luo
-- Institutions: George Mason Unviersity & Northwestern University & Princeton University
-- Contact information
