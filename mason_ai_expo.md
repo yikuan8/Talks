@@ -20,7 +20,7 @@
 | 10 | Result 2: The gap disappears | ~65s |
 | 11 | Take home | ~45s |
 
-**Total ≈ 10m 10s**
+**Total ≈ 10m**
 
 ---
 
@@ -346,8 +346,6 @@ Overall survival went up, not down. Fairness went up, not down. Both numbers mov
 
 **Script:**
 
-*(Slow down. Let the pace drop.)*
-
 So here is the take-home message I want to leave you with.
 
 **AI, designed properly, can save lives and mitigate disparities — at the same time.**
@@ -360,8 +358,6 @@ And the lesson underneath all of it is this. We are told, constantly, that fairn
 
 Today I've tried to show you that is not a law of nature. It is a consequence of how we design our systems. When we build AI that cares about both outcomes and equity from the very beginning, we don't have to choose between them.
 
-*(Pause.)*
-
 I started with two patients and one ventilator. A decision no one wanted to make. We can't make scarcity go away. Pandemics will come again. Disasters will strain hospitals again. But when that moment comes, we can choose with better tools than the ones we had in 2020.
 
 One ventilator. Two people. We can do better than we have been.
@@ -369,20 +365,3 @@ One ventilator. Two people. We can do better than we have been.
 Thank you.
 
 ---
-
-## Q&A — stuff to have in your pocket
-
-- **"Is this already deployed in hospitals?"**
-  No — it's research, not a clinical system. Real deployment requires prospective trials, ethics review, and regulatory approval.
-
-- **"Couldn't AI make this worse? We've seen AI carry bias."**
-  Absolutely — if you train it on biased data with no fairness objective, it will amplify that bias. That's exactly the point of this work. *How* you design it matters. Fairness has to be in the reward from day one.
-
-- **"Who decides what 'fair' means?"**
-  Ethicists, clinicians, patients, affected communities. Not engineers alone. This approach actually makes that conversation *easier* — because fairness becomes something you write down and negotiate, not something hidden inside a formula.
-
-- **"Does the AI replace doctors?"**
-  No. The doctor still decides whether a patient needs a ventilator at all. The AI only helps with the harder question that comes *after* that — when multiple patients need one and there aren't enough to go around.
-
-- **"What about the tiny remaining gap?"**
-  Honest answer: a 2.9-point gap is much better than 5.5, but it isn't zero. This is a proof of concept, not a finished product. More work is needed before anyone should trust it with a real ICU.
