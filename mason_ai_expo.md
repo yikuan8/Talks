@@ -40,7 +40,7 @@ Pause before speaking. Let the title land.
 
 Let me take you back to 2020. Two patients are wheeled into the ICU in the same minute. Both are in respiratory failure. Both need a ventilator to breathe. And there is only one ventilator left in the hospital.
 
-This wasn't a thought experiment. During the peak of COVID, this was happening across the country — New York, Italy, Wuhan. Hospitals were literally running out of ventilators. The supply ran out.
+This wasn't a thought experiment. During the peak of COVID, this was happening across the globe — New York, Italy, Wuhan. Hospitals were literally running out of ventilators. The supply ran out.
 
 And the math of this decision is brutal. A patient in respiratory failure who doesn't get a ventilator almost certainly dies. A patient who does get one has a real chance to survive — not a guarantee, but a chance. So whoever the doctor picks gets that chance. Whoever they don't pick, probably doesn't.
 
